@@ -1,7 +1,7 @@
 # Joomla Docker Automation Project
 
 ## 1. Project Members
-* Elay Barlev, Shani, Elin
+* Elay Barlev, Shani Sarig, Elin Felikman
 
 ## 2. Project Goal
 This project's goal was to deploy a complete Joomla website environment using Docker containers for the application and a MySQL database. The entire lifecycle of the environment—setup, backup, restore, and cleanup—is automated via Bash shell scripts.
